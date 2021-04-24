@@ -1,0 +1,7 @@
+---
+title: "About"
+author: "Elaina"
+---
+
+Hi, I'm an Master of Behavioral and Decision Sciences student at Penn taking BDS516 - Data Science and Quantitative Modelling.
+

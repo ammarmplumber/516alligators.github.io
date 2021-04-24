@@ -1,0 +1,14 @@
+name: "Elainalytics"
+output_dir: "."
+navbar:
+  title: "Elainalytics"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "HW 09"
+      href: HW09.html
+    
+output:
+  html_document:
+    theme: simplex
+    highlight: textmate
